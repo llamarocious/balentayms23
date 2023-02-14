@@ -35,8 +35,12 @@ button {
 
 #letter {
   display: block;
-  align-self: center;
+  align-self: left;
   visibility: hidden;
-  padding-right: 10vh;
+  width: 40%;
   
 }
+
+
+
+
