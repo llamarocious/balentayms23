@@ -1,7 +1,8 @@
 .gif {
     display: block;
     margin: auto;
-    max-width: 80%;
+    max-width: 50%;
+    padding-top: 10em;
 }
 
 h2 {
@@ -11,13 +12,18 @@ h2 {
 
 div {
     display: block;
-    margin-top: 55%;
+    margin-top: auto;
     margin-left: auto;
     margin-right: auto;
     max-width: 99%;
 }
 
+body {
+  display: block;
+  margin: auto;
+  max-width: 100%;
 
+}
 button {
     display: block;
     margin: auto;
@@ -31,7 +37,3 @@ button {
   padding-right: 10vh;
   
 }
-
-
-
-
