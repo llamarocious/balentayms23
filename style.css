@@ -37,7 +37,7 @@ button {
   display: block;
   align-self: left;
   visibility: hidden;
-  max-width: 70%;
+  max-width: 100%;
   
 }
 
