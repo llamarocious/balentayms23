@@ -1,7 +1,7 @@
 .gif {
     display: block;
     margin: auto;
-    max-width: 50%;
+    max-width: 100%;
     padding-top: 10em;
 }
 
@@ -16,18 +16,21 @@ div {
     margin-left: auto;
     margin-right: auto;
     max-width: 99%;
+    align-items: center;
 }
 
 body {
   display: block;
   margin: auto;
   max-width: 100%;
+  align-content: center;
 
 }
 button {
     display: block;
     margin: auto;
     width: 40%;
+    font-size: 2em;
 }
 
 #letter {
